@@ -14,10 +14,13 @@ $fs: 24px;
 $ff: 'Space Mono', monospace;
 $fw: 700;
 
+@use 'variables';
 
 body {
-    background-color: $light;
+    background-color: $light
 }
+
+
 
 main {
     background-color: $white;
