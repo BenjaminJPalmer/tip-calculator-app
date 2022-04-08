@@ -11282,12 +11282,5 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-body {
-  background-color: hsl(185deg, 41%, 84%);
-}
-
-main {
-  background-color: hsl(0deg, 0%, 100%);
-}
 
 /*# sourceMappingURL=style.css.map */
