@@ -17,3 +17,4 @@
 
 # Additional ignores
 /node_modules
+.map
